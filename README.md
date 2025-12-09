@@ -5,8 +5,9 @@
 <p>
 <i>"Backend enjoyer, Fullstack survivor."</i>
 </p>
-https://img.icons8.com/?size=100&id=8808&format=png&color=000000
 <a href="https://www.google.com/search?q=https://www.linkedin.com/in/felipe-brito-zapata" target="_blank">
+  Linkedin
+  <img src="https://img.icons8.com/?size=100&id=8808&format=png&color=000000"/>
 </a>
 </div>
 
