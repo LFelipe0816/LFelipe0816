@@ -7,7 +7,7 @@
 </p>
 
 <a href="https://www.google.com/search?q=https://www.linkedin.com/in/felipe-brito-zapata" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/linkedin-%25230077B5.svg%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn"/>
+<img src="[https://www.google.com/search?q=https://img.shields.io/badge/linkedin-%25230077B5.svg%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite](https://icons8.com/icon/13930/linkedin)" alt="LinkedIn"/>
 </a>
 </div>
 
