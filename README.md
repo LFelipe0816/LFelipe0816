@@ -6,7 +6,7 @@
 <i>"Backend enjoyer, Fullstack survivor."</i>
 </p>
 
-<a href="https://www.google.com/search?q=https://www.linkedin.com/in/tu-usuario-linkedin" target="_blank">
+<a href="https://www.google.com/search?q=https://www.linkedin.com/in/felipe-brito-zapata" target="_blank">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/linkedin-%25230077B5.svg%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn"/>
 </a>
 </div>
