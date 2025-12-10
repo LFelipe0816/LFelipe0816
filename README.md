@@ -26,7 +26,7 @@ I am a Full Stack Developer based in Santo Domingo, Dominican Republic, speciali
 - Languages: PHP, Java, Javascript.
 - Frameworks & Libraries: React, React Native, Laravel, Symfony, Node.js
 - Databases & Backend: Sql (MySQL), NoSql (MongoDB)
-- DevOps & Deployment: Git, Github Actions, Jenkins, Docker
+- DevOps & Deployment: Git, Github Actions, Jenkins, Docker, Nginx/Apache.
 - Operating Systems: Linux (Ubuntu/Debian)
 
 🚀 Preferred Stacks
